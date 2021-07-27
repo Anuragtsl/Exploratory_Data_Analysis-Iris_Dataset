@@ -18,6 +18,8 @@ See here for more information on this dataset : https://en.wikipedia.org/wiki/Ir
 
 # Data Insights:
 
+* **Choosing Plot(Classification feature as Petal Length)to distinguish among the species**
+
 * ***Image***
 <img src="https://miro.medium.com/max/543/1*JBv78JuTKXNA2Wt5lm7OBg.png" width="400">
 
