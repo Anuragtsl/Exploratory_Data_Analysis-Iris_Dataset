@@ -26,3 +26,6 @@ See here for more information on this dataset : https://en.wikipedia.org/wiki/Ir
 * **The point of intersection between pdf curves of Versicolor and Virginica is roughly at 4.8,**
 * **If petal length > 2.1 and petal length < 4.8 then species is Iris Versicolor,**
 * **If petal length > 4.8 then species is Iris Virginica.**
+
+
+#Njoy!
